@@ -1,0 +1,9 @@
+Create a new branch
+On the new branch and make an edit
+Now commit that edit
+Change to the master branch
+Edit the previous file
+Commit the edit
+Merge the branch into master to see the error
+Now, go into the previous text file
+Make our edits as necessary, then close the file
