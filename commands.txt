@@ -1,0 +1,10 @@
+1.touch "file name" : creates new file
+2.git checkout : to checking out old commits and old file revisions, git checkout is also the means to navigate existing branches.
+3.git clean : Removes untracked files from the working directory.
+4.git commit --amend : Passing the --amend flag to git commit lets you amend the most recent commit.
+5.git fetch : Fetching downloads a branch from another repository, along with all of its associated commits and files.
+6.git init : Initializes a new Git repository.
+7.git rebase : Rebasing lets you move branches around, which helps you avoid unnecessary merge commits.
+8.git remote : administer remote connections.
+9.git reset : Undoes changes to files in the working directory.
+10.git revert : Undoes a committed snapshot
