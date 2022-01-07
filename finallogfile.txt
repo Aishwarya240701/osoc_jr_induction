@@ -1,0 +1,48 @@
+commit 9185da863f1695b0f51ef4ebc1787e909f37efb8
+Author: Aishwarya Tripathi <aishwaryatripathi28@gmail.com>
+Date:   Fri Jan 7 18:05:09 2022 +0530
+
+    done with all
+
+commit 43f8fcb35c3dd87be4015750fa4dfe88aea33df3
+Author: Aishwarya Tripathi <aishwaryatripathi28@gmail.com>
+Date:   Fri Jan 7 17:56:22 2022 +0530
+
+    done
+
+commit 8f2cef4950bb9fc135f8444372c974a480561fac
+Merge: 2569abd 5ecc600
+Author: Aishwarya Tripathi <aishwaryatripathi28@gmail.com>
+Date:   Fri Jan 7 17:53:57 2022 +0530
+
+    final commit
+
+commit 2569abde2ef2665cfebf684451a011cf1c1340b6
+Author: Aishwarya Tripathi <aishwaryatripathi28@gmail.com>
+Date:   Fri Jan 7 17:43:49 2022 +0530
+
+    Creating conflict in main branch
+
+commit 5ecc60044f913f1313aff5bc5189e57036409151
+Author: Aishwarya Tripathi <aishwaryatripathi28@gmail.com>
+Date:   Fri Jan 7 17:42:01 2022 +0530
+
+    creating conflict in new branch demo
+
+commit de7e953c8a9458db151761e37daf81925a6406a3
+Author: Aishwarya Tripathi <aishwaryatripathi28@gmail.com>
+Date:   Fri Jan 7 17:40:12 2022 +0530
+
+    creating conflict file in main
+
+commit 3da8c089e023d5682e049670052a452612c88414
+Author: Aishwarya Tripathi <aishwaryatripathi28@gmail.com>
+Date:   Fri Jan 7 17:37:44 2022 +0530
+
+    Adding text to new file in main
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
